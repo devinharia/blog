@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      Test
+author:     Devin Haria
+tags: 		post photogrpahy
+subtitle:  	This is just a trial  
+---
+<!-- Start Writing Below in Markdown -->
+
+> A Witty Quote
+
+Life is all about fun.
+
+
