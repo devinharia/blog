@@ -1,6 +1,6 @@
 # Site settings
-title: In Search of Infinity
-description: "An Integrated Scientific Blogging Template"
+title: Pragmatic Abstractions
+description: "a collection of internal monologues"
 url: "https://devinharia.github.io"
 
 
@@ -13,9 +13,9 @@ headercolor: "#FFFFFF"
 logo: /blog/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  devinharia
+project_repository: blog
+disqus_shortname: devinharia
 g-analytics: UA-75881392-1
 altmetric: true
 
