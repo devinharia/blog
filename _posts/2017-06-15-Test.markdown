@@ -2,7 +2,7 @@
 layout:     post
 title:      Test
 author:     Devin Haria
-tags: 		post photogrpahy
+tags: 		post photography
 subtitle:  	This is just a trial  
 ---
 <!-- Start Writing Below in Markdown -->
