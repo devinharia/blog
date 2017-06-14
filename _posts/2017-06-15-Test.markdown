@@ -4,13 +4,13 @@ title:      Test
 author:     Devin Haria
 tags: 		post photography
 subtitle:  	This is just a trial
-image:  "img/home-bg.jpg"  
+image:  "img/iitk.jpg"  
 ---
 <!-- Start Writing Below in Markdown -->
 
 > A Witty Quote
 
-![Description](http://devinharia.github.io/blog/img/home-bg.jpg)
+![Description](http://devinharia.github.io/blog/img/iitk.jpg)
 
 Life is all about fun.
 
