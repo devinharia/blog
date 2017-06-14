@@ -9,6 +9,8 @@ subtitle:  	This is just a trial
 
 > A Witty Quote
 
+![Description](http://devinharia.github.io/blog/img/home-bg.png)
+
 Life is all about fun.
 
 
