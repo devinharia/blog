@@ -3,7 +3,8 @@ layout:     post
 title:      Test
 author:     Devin Haria
 tags: 		post photography
-subtitle:  	This is just a trial  
+subtitle:  	This is just a trial
+image:  "/img/home-bg.jpg"  
 ---
 <!-- Start Writing Below in Markdown -->
 
