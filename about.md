@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About"
-description: "Why use Project Pages?"
 header-img: "{{ site.baseurl }}/img/home.jpg"
 ---
 
