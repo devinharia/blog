@@ -16,8 +16,8 @@ logo: /blog/img/logo.png
 github_username:  devinharia
 project_repository: blog
 disqus_shortname: devinharia
-g-analytics: UA-75881392-1
-altmetric: true
+g-analytics: 
+altmetric: 
 
 # Build settings
 gems: [jekyll-paginate]
