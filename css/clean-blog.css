@@ -58,7 +58,9 @@ hr.small {
   width: 100%;
   z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-align:center;
+}
+.navbar .navbar-collapse {
+  text-align: center;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
