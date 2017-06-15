@@ -3,7 +3,7 @@ layout:     post
 title:      Why goals are quintessential?
 author:     Devin Haria
 tags: 		life education
-subtitle:  	from admission to 4 years at IIT Kanpur
+subtitle:  	From admission to 4 years at IIT Kanpur
 image:  "img/iitk.jpg"  
 ---
 <!-- Start Writing Below in Markdown -->
