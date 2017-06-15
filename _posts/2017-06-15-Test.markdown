@@ -1,17 +1,13 @@
 ---
 layout:     post
-title:      Test
+title:      Why goals are quintessential?
 author:     Devin Haria
-tags: 		post photography
-subtitle:  	This is just a trial
+tags: 		life education
+subtitle:  	from admission to 4 years at IIT Kanpur
 image:  "img/iitk.jpg"  
 ---
 <!-- Start Writing Below in Markdown -->
 
-> A Witty Quote
+I still remember, when I was in class 7, that I heard about a wonderful life one leads in and after IITs. I had made up my mind, I need to get into one. 
 
 ![Description](http://devinharia.github.io/blog/img/iitk.jpg)
-
-Life is all about fun.
-
-
