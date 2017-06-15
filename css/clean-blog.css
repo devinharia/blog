@@ -191,14 +191,14 @@ hr.small {
 }
 .intro-header .post-heading .subheading {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   margin: 10px 0 30px;
   font-weight: 300;
 }
 .intro-header .post-heading .meta {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 13px;
 }
 .intro-header .post-heading .meta a {
   color: white;
