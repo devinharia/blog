@@ -5,7 +5,7 @@ author:     Devin Haria
 tags: 		life education
 subtitle:  	from admission to 4 years at IIT Kanpur
 image:  "img/iitk.jpg"  
-visible:1
+published: false
 ---
 <!-- Start Writing Below in Markdown -->
 
