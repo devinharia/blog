@@ -64,7 +64,7 @@ hr.small {
 }
 .navbar .navbar-collapse {
   text-align: center;
-  margin-right: 0;
+  margin-right: -20px;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
