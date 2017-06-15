@@ -8,6 +8,6 @@ image:  "img/iitk.jpg"
 ---
 <!-- Start Writing Below in Markdown -->
 
-I still remember, when I was in class 7, that I heard about a wonderful life one leads in and after IITs. I had made up my mind, I need to get into one. 
+I still remember. I was in class 7. Somebody told me about the amazing life one leads in and after IITs. And I had made up my mind, I need to get into one!
 
 ![Description](http://devinharia.github.io/blog/img/iitk.jpg)
