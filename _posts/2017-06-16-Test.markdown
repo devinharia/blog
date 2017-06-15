@@ -3,8 +3,7 @@ layout:     post
 title:      Test
 author:     Devin Haria
 tags: 		test
-subtitle:  	test
-image:  "img/iitk.jpg"  
+subtitle:  	test 
 ---
 <!-- Start Writing Below in Markdown -->
 
