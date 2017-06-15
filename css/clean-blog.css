@@ -60,11 +60,10 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-right{
-  margin-right: 20px;
+  padding: 10px;
 }
 .navbar .navbar-collapse {
   text-align: center;
-  margin-right: -20px;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
