@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+description: null
 header-img: "{{ site.baseurl }}/img/home.jpg"
 ---
 
