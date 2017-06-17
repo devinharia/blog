@@ -465,9 +465,6 @@ hr.style-one {
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
-*, *::after, *::before {
-  box-sizing: border-box;
-}
 
 progress {
   /* Positioning */
@@ -513,12 +510,12 @@ progress::-webkit-progress-bar {
   top: 0;
   left: 0;
   height: .25em;
-  display: inline;
+  display: block;
 }
 
 .progress-bar {
   background-color: #ffbf00;
   width: 50%;
-  display: inline;
+  display: block;
   height: inherit;
 }
