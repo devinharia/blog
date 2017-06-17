@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<progress value="0" id="progressBar">
+  <div class="progress-container">
+    <span class="progress-bar"></span>
+  </div>
+</progress>
 
 <!-- Post Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');">
@@ -19,14 +24,6 @@ layout: default
         </div>
     </div>
 </header>
-
-<progress value="0" id="progressBar">
-  <div class="progress-container">
-    <span class="progress-bar"></span>
-  </div>
-</progress>
-
-
 
 {% for post in site.posts %}
 	
