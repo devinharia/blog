@@ -134,12 +134,15 @@ layout: default
         	
         	<hr class="style-one">
         	
-        	<a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title"> {{ post.title }}</h2></a>
+        	<a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title"> {{ post.title }}</h2>
         	
         	{% if post.subtitle %}
         		<h4 class="post-subtitle">{{ post.subtitle }}</h4>
         	{% endif %}
         	
+        	<img src="{{ post.image }}" class="img-responsive" style="margin-bottom: 5px">
+        	</a>
+
         	<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
         	
         	<div class="notepad-index-post-tags" style="">
