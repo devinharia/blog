@@ -4,6 +4,7 @@ title:      Test
 author:     Devin Haria
 tags: 		test
 subtitle:  	test 
+image: "img/test.jpg"
 ---
 <!-- Start Writing Below in Markdown -->
 
