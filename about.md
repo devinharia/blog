@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: newpage
 title: "About"
 description: "the back story"
 ---
