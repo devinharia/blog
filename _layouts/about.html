@@ -1,0 +1,132 @@
+---
+layout: default
+---
+
+<progress value="0" id="progressBar">
+  <div class="progress-container">
+    <span class="progress-bar"></span>
+  </div>
+</progress>
+
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading" style="padding-top:100px;padding-bottom: 60px;">
+					{% if page.url == '/' %}
+					{% if site.logo %}
+					<img src= "{{ site.logo }}" style="height: 150px">
+					{% endif %}	
+					{% else %}{% endif %}	
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <hr class="small">
+                    <span class="subheading">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div onclick="topFunction()" id="myBtn" title="Go to top"><img src="{{ site.baseurl }}/img/up1.png" style="height: 35px;"></div>
+
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" style="padding-left:23px; padding-right:23px;margin-top: -30px;">
+			{{ content }}
+		</div>
+	</div>
+</div>
+
+<hr>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        
+        var getMax = function(){
+            return $(document).height() - $(window).height();
+        }
+        
+        var getValue = function(){
+            return $(window).scrollTop();
+        }
+        
+        if('max' in document.createElement('progress')){
+            // Browser supports progress element
+            var progressBar = $('progress');
+            
+            // Set the Max attr for the first time
+            progressBar.attr({ max: getMax() });
+
+            $(document).on('scroll', function(){
+                // On scroll only Value attr needs to be calculated
+                progressBar.attr({ value: getValue() });
+            });
+          
+            $(window).resize(function(){
+                // On resize, both Max/Value attr needs to be calculated
+                progressBar.attr({ max: getMax(), value: getValue() });
+            });   
+        }
+        else {
+            var progressBar = $('.progress-bar'), 
+                max = getMax(), 
+                value, width;
+            
+            var getWidth = function(){
+                // Calculate width in percentage
+                value = getValue();            
+                width = (value/max) * 100;
+                width = width + '%';
+                return width;
+            }
+            
+            var setWidth = function(){
+                progressBar.css({ width: getWidth() });
+            }
+            
+            $(document).on('scroll', setWidth);
+            $(window).on('resize', function(){
+                // Need to reset the Max attr
+                max = getMax();
+                setWidth();
+            });
+        }
+    });
+
+
+    $(document).ready(function(){
+      
+      $('#flat').addClass("active");
+      $('#progressBar').addClass('flat');
+        
+      $('#flat').on('click', function(){
+        $('#progressBar').removeClass().addClass('flat');
+        $('a').removeClass();
+        $(this).addClass('active');
+        $(this).preventDefault();
+      });
+
+      
+    });
+</script>
+
+<script type="text/javascript">
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("myBtn").style.display = "block";
+        } else {
+            document.getElementById("myBtn").style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+</script>
