@@ -97,7 +97,7 @@ layout: default
 
 <!-- Post Content -->
 {% include imagezoom.html %}
-<!-- https://codepen.io/pankajparashar/pen/towxF progress code -->
+
 <article>
     <div id="content" class="container">
         <div class="row">
@@ -128,7 +128,7 @@ layout: default
         	{% if post.title != page.title and post.author == page.author %}
         	
         	<div class="row">
-        	<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" style="padding-left:23px; padding-right:23px;">
+        	<div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2" style="padding-left:23px; padding-right:23px;">
         	
         	<h4> Recently by the same author: </h4> 
         	
@@ -148,7 +148,7 @@ layout: default
         	
         			{% for member in site.data.members %}
         {% if member.name == page.author %} 
-
+<!--
         <hr class="style-one">
 
         	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin:auto; width:120px !important; border-radius: 50%;">
@@ -168,7 +168,7 @@ layout: default
         	{% endif %}
         	
         {% endif %}
-        {% endfor %}
+        {% endfor %} -->
         	
         	</div>
         	</div>
