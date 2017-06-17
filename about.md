@@ -10,7 +10,7 @@ One day when I was just browsing at random, I stumbled upon Jekyll. It was just 
 
 The next step was to decide upon the blog name. I knew that my thought process and understanding of life is very practical, scientific and logical. This gave birth to 'Pragmatic'. I knew that I was going to write articles of a plethora of genres. Searched a lot and finalised 'Abstractions', sounded cool! 'Pragmatic Abstractions', a collection of my thoughts, however wrong or harsh. 
 
-I aim to write atleast once every fortnight and I hope all you like my work. Feel free to connect with me or write about your views in the comment section of every post.
+I aim to write at least once every fortnight and I hope all you like my work. Feel free to connect with me or write about your views in the comment section of every post.
 
 Signing off!
 
