@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<progress value="0" id="progressBar">
+  <div class="progress-container">
+    <span class="progress-bar"></span>
+  </div>
+</progress>
+
 <!-- Post Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');">
     <div class="container">
@@ -147,11 +153,7 @@ layout: default
 		</div>
 		</div>
 
-<progress value="0" id="progressBar">
-  <div class="progress-container">
-    <span class="progress-bar"></span>
-  </div>
-</progress>
+
 
 <!-- Post Content -->
 {% include imagezoom.html %}
@@ -244,19 +246,6 @@ layout: default
 	});
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 	$(document).ready(function(){
 	  
 	  $('#flat').addClass("active");
@@ -269,50 +258,6 @@ layout: default
 	    $(this).preventDefault();
 	  });
 
-	  $('#single').on('click', function(){
-	    $('#progressBar').removeClass().addClass('single');
-	    $('a').removeClass();    
-	    $(this).addClass('active');
-	    $(this).preventDefault();    
-	  });
-
-	  $('#multiple').on('click', function(){
-	    $('#progressBar').removeClass().addClass('multiple');
-	    $('a').removeClass();    
-	    $(this).addClass('active');
-	    $(this).preventDefault();    
-	  });
-
-	  $('#semantic').on('click', function(){
-	    $('#progressBar').removeClass().addClass('semantic');
-	    $('a').removeClass();    
-	    $(this).addClass('active');
-	    $(this).preventDefault();
-	    alert('hello');
-	  });
-
-	  $(document).on('scroll', function(){
-
-	      maxAttr = $('#progressBar').attr('max');
-	      valueAttr = $('#progressBar').attr('value');
-	      percentage = (valueAttr/maxAttr) * 100;
-	      
-	      if(percentage<49){
-	        document.styleSheets[0].addRule('.semantic', 'color: red');
-	        document.styleSheets[0].addRule('.semantic::-webkit-progress-value', 'background-color: red');
-	        document.styleSheets[0].addRule('.semantic::-moz-progress-bar', 'background-color: red');
-	      }
-	      else if(percentage<98){
-	        document.styleSheets[0].addRule('.semantic', 'color: orange');
-	        document.styleSheets[0].addRule('.semantic::-webkit-progress-value', 'background-color: orange');
-	        document.styleSheets[0].addRule('.semantic::-moz-progress-bar', 'background-color: orange');
-	      }
-	      else {
-	        document.styleSheets[0].addRule('.semantic', 'color: green');
-	        document.styleSheets[0].addRule('.semantic::-webkit-progress-value', 'background-color: green');
-	        document.styleSheets[0].addRule('.semantic::-moz-progress-bar', 'background-color: green');
-	      }      
-	  });
 	  
 	});
 </script>
