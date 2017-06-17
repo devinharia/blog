@@ -465,8 +465,6 @@ hr.style-one {
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
-
 *, *::after, *::before {
   box-sizing: border-box;
 }
@@ -493,7 +491,7 @@ progress {
   background-color: transparent;
 
   /* For IE10+, color of the progress bar */
-  color: red;
+  color: #ffbf00;
 }
 
 progress::-webkit-progress-bar {
@@ -501,11 +499,11 @@ progress::-webkit-progress-bar {
 }
 
 .flat::-webkit-progress-value {
-  background-color: red;
+  background-color: #ffbf00;
 }
 
 .flat::-moz-progress-bar {
-  background-color: red;
+  background-color: #ffbf00;
 }
 
 .progress-container {
@@ -519,7 +517,7 @@ progress::-webkit-progress-bar {
 }
 
 .progress-bar {
-  background-color: red;
+  background-color: #ffbf00;
   width: 50%;
   display: block;
   height: inherit;
