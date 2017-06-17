@@ -474,7 +474,7 @@ progress {
   z-index: 999;
   /* Dimensions */
   width: 100%;
-  height: .25em;
+  height: .40em;
 
   /* Reset the apperance */  
   -webkit-appearance: none;
