@@ -513,12 +513,12 @@ progress::-webkit-progress-bar {
   top: 0;
   left: 0;
   height: .25em;
-  display: block;
+  display: inline;
 }
 
 .progress-bar {
   background-color: #ffbf00;
   width: 50%;
-  display: block;
+  display: inline;
   height: inherit;
 }
