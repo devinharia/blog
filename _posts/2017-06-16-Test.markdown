@@ -4,7 +4,7 @@ title:      Test
 author:     Devin Haria
 tags: 		test
 subtitle:  	test 
-image: "{{ site.baseurl }}/img/test.jpg"
+image: "img/test.jpg"
 ---
 <!-- Start Writing Below in Markdown -->
 
