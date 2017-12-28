@@ -2,7 +2,7 @@
 layout:     post
 title:      Why goals are quintessential?
 author:     Devin Haria
-tags: 		life education
+tags: 		life education goals planning
 subtitle:  	From admission to 5 years at IIT Kanpur
 image:  "img/iitk.jpg"  
 ---
@@ -26,6 +26,10 @@ Judgement Day v2.0: June 2, 2013. The mind was empty, as if I knew nothing. Sat 
 
 The results were expected on June 23, a Sunday. My birthday and my parents' anniversary is on June 21, so we had planned for a small party on June 23 (for the triple bonanza). To everyone's surprise, the results were announced on June 21. The JEE team gave me the best birthday gift possible, an All India Rank of 1099! Anywho, the party was celebrated on the Sunday :P
 
-The plan was set, I wanted Economics. But that rank did not make it easy. Based on the past trends, I could get Computer Science in IIT Guwahati, and some really good traditional options at other IITs. Talked to a bunch of people, got several sorts of advice. Also the best opening rank for Economics was around 2600. 
+The plan was set, I wanted Economics. But that rank did not make it easy. Based on the past trends, I could get Computer Science in IIT Guwahati, Mathematics and Computing at IIT Kanpur, and some really good traditional options at other IITs. Talked to a bunch of people, got several sorts of advice. Also the best opening rank for Economics was around 2600. Scoring only 85 in 12th Boards in Maths (lowest marks amongst all subjects for me), I knew I wasn't good at math. Competing with great minds of the country at a thing I wasn't that good at seemed illogical, plain and simple. I took the risk and filled Economics at IIT Kanpur as my top priority in the counselling. I got selected for the program and everyone was in a shock with what I did. (1099 is still the best opening rank for Economics in any IIT so far!)
+
+With proper planning and consistency, I had achieved my goal. I got into an IIT! The life now would be 'amazing'!
+
+It was time for new goals and new plans!
 
 ![Description](http://devinharia.github.io/blog/img/iitk.jpg)
