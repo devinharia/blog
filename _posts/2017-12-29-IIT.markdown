@@ -3,7 +3,7 @@ layout:     post
 title:      Why goals are quintessential?
 author:     Devin Haria
 tags: 		life education
-subtitle:  	From admission to 4 years at IIT Kanpur
+subtitle:  	From admission to 5 years at IIT Kanpur
 image:  "img/iitk.jpg"  
 ---
 <!-- Start Writing Below in Markdown -->
@@ -20,7 +20,6 @@ The second and final year in Kota. It became the plot twist of my life. I was mu
 
 The entire plan was on the premise of a goal which was decided on the basis of a word, ‘amazing’. The naïve kid didn’t think about what branch he would choose (upon which your career depends or rather should), what would he do after graduating from an IIT. It was at that point in time that I realised that goals should be set for multiple phases and not one. It is indeed necessary to think not only about 5 years from now, but also 10 years from now or 15 years from now. Lesson learned, I started searching for options, because there was no going back. 
 
-I was lucky, I found Economics! Yeah, even IITs have Economics programs! I was more or less sure that I would go for a MBA after graduation, so choosing Economics would be the best thing for me. It was decided, the goal and the plan were fine tuned. 
-
+I was lucky, I found Economics! Yeah, even IITs have Economics programs! I was more or less sure that I would go for a MBA after graduation, so choosing Economics would be the best thing for me. It was decided, the goal and the plan were fine tuned. 3 months were left for the first hurdle - JEE Mains. Told myself to just hold on, study as hard as possible. I collected hundreds (literally!) of practice papers for the exam and started solving them, to increase my speed (my biggest weakness). Gave JEE Mains, did good (scored 270!), and qualified for JEE Advanced. Practiced, practiced and practiced again. Wrote atleast two 3-hour practice papers and 
 
 ![Description](http://devinharia.github.io/blog/img/iitk.jpg)
