@@ -8,18 +8,19 @@ image:  "img/iitk.jpg"
 ---
 <!-- Start Writing Below in Markdown -->
 
-I still remember, vaguely. I was in class 7. My father and I were talking, just like any other day. On that day, he told me about the amazing life one leads in and after IITs in some detail. At that very moment, I had made up my mind. I need to get into one! A goal was set, crystal clear. It wasn't like a kid's plan to become an astronaut. This was different. 
+I still remember, vaguely. I was in class 7. My father and I were talking, just like any other day. On that day, he told me about the amazing life that one leads in and after IITs. At that very moment, I had made up my mind. I need to get into one! A goal was set, crystal clear. It wasn't like a kid's plan to become an astronaut. This was different. 
 
 After setting goals, the next phase is planning. I started researching. Found out that the entrance exam, IIT-JEE (as it was called then), was not tough, it was making-a-rocket-climbing-the-everest-making-it-out-alive-the-bermuda-triangle tough. It was a lot to take in for a 12-year-old. After the disappointing start of the research phase, I gained some courage (I am still searching for that source of courage!) and started searching for best places to prepare. Found the answer pretty quickly, Kota! A plan was made. Leave home, parents, friends, go to Kota, forget about any sort of luxury and study as-hard-as-you-can. 
 
-Time passed, I reached class 9. It became clear to me that I couldn’t stand biology, commerce was just not my thing and I adored Science(less Biology) and Maths. The goal and the plan solidified futher. 
-A little fast-forward, the judgement day, the day to leave home. My parents had visited Kota a few days back and finalised a PG for me and on their return my mom said, let me correct, dictated that she won’t allow me to leave home. I respected that, but was determined and softly dismissed. Back to judgement day. The heart was full of emotions, but fixated towards the goal. 
-Completed one year in Kota, the year was 2012. Had studied hard, performed well and was delighted to be back home. But festivities eventually end. 
+Time passed, I reached class 9. It became clear to me that I couldn’t stand biology, commerce was just not my thing and I adored Science (less Biology) and Maths. The goal and the plan solidified futher. 
+
+A little fast-forward, the judgement day, the day to leave home. My parents had visited Kota a few days before the alleged judgement day and finalised a PG room for me. On their return my mom said, let me correct, dictated that she won’t allow me to leave home. I respected that, but was determined and softly dismissed. Back to judgement day. The heart was full of emotions, but fixated towards the goal. Completed one year in Kota, the year was 2012. Had studied hard, performed well and was delighted to be back home. But festivities eventually end. 
 
 The second and final year in Kota. It became the plot twist of my life. I was much mature than that 12-year-old. I started contemplating. What was I doing? Why did I want to get into an IIT? Was engineering really for me? I had suddenly lost interest in PCM. Yeah, you can suddenly lose interest in things you adore, that’s life. 
 
 The entire plan was on the premise of a goal which was decided on the basis of a word, ‘amazing’. The naïve kid didn’t think about what branch he would choose (upon which your career depends or rather should), what would he do after graduating from an IIT. It was at that point in time that I realised that goals should be set for multiple phases and not one. It is indeed necessary to think not only about 5 years from now, but also 10 years from now or 15 years from now. Lesson learned, I started searching for options, because there was no going back. 
-I was lucky, I found Economics! Yeah, even IITs have Economics programs! I was more or less sure that I would go for a MBA, so choosing Economics would be the best thing for me. 
+
+I was lucky, I found Economics! Yeah, even IITs have Economics programs! I was more or less sure that I would go for a MBA after graduation, so choosing Economics would be the best thing for me. It was decided, the goal and the plan were fine tuned. 
 
 
 ![Description](http://devinharia.github.io/blog/img/iitk.jpg)
