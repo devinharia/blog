@@ -12,10 +12,12 @@ The next step was to decide upon the blog name. I knew that my thought process a
 
 I knew that I was going to write articles belonging to a plethora of genres. Searched a lot and finalised 'Abstractions', sounded cool! 'Pragmatic Abstractions', a collection of my thoughts, however wrong or harsh. 
 
-I aim to write at least once every fortnight and I hope you like my work. Feel free to connect with me or write about your views in the comment section of every post.
+I started writing my first blog article in summers last year, couldn't complete it then and then this project just got delayed and delayed. But now that I've graduated, I aim to write every week (Hope it continues for at least a few weeks! :P) .
+
+Feel free to connect with me or write about your views in the comment section of every post.
 
 Signing off!
 
 **Devin Haria**
 
-*18 June 2017*
+*09 May 2018*
