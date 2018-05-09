@@ -7,6 +7,7 @@ subtitle:  	From Preparation to 5 years at IIT Kanpur
 image:  "img/iitk.jpg"  
 ---
 <!-- Start Writing Below in Markdown -->
+I thought a lot about it, what should be my first blog article about? The first thing that came to my mind, I should write about myself.
 
 I still remember, vaguely. I was in class 7. My father and I were talking, just like any other day. But on that particular day, he told me about the amazing life that one leads in and after IITs. At that very moment, I had made up my mind. I need to get into one! A goal was set, crystal clear. It wasn't like a kid's plan to become an astronaut. This was different. 
 
